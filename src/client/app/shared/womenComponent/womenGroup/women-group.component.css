@@ -1,0 +1,8 @@
+:host {
+ 	
+}
+
+.women-group-container{
+	min-height: calc(100vh - 96px);
+    padding-top: 20px;		
+}
